@@ -50,3 +50,30 @@ La mejor forma apra crear un sitio web usable es realizando un diseño centrao e
  - ¿ A quien nos comparamos?
  - Analizar
  - Adaptar mejoras
+ ## Contexto
+ - ¿ En que contexto usas esa app?
+ - ¿ Que funcionaledes o elementos crees que estan pensandos para lso contextos que definistes?
+ - Pensa que necesidad, timepos, miedos, alegrias, fustraciones, etc. Estas expuerto minetras la usas
+ A partir de nuestro objetiniso 
+ - Definimos 5 columnas, geograficom, temporal, sociocultarl, emocional, tencologico
+## Data drive design
+- Analisis cuantitativo
+    - Que esta pasando
+    - Cuando
+    - Como
+    - A quien
+- Analisis cualitativo
+    - Porque
+    - Que piensasn las personas
+    - Que sienten las personas
+## Donde obtengo la informacion de los usuarios
+> las encuentas no son iguales que las entrevistas
+En las encuentas existen
+- pregunta cerradas estas preguntas obtierne slos datos cauntitivatis. Los datos obtenidos se pueden visaulizar faciulmente con representacions graficas
+- preguntas abiertas las preguntas abierttas son lso datos cualitativos nos dice como piensa el usuario sobre un problema
+¿ Cuantas veces consumis a la semana?
+Ninguna/ 1 a 5 / 5 a 10/ Mas de 10
+¿Que mas de cervez consumis?
+Consmo esta amrca, esta otra, etc
+## ¿ Como armar una encuesta ?
+Que informacion queremo
