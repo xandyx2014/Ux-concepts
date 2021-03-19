@@ -58,10 +58,10 @@ La mejor forma apra crear un sitio web usable es realizando un diseño centrao e
  - Definimos 5 columnas, geograficom, temporal, sociocultarl, emocional, tencologico
 ## Data drive design
 - Analisis cuantitativo
-    - Que esta pasando
-    - Cuando
-    - Como
-    - A quien
+    - ¿Que esta pasando?
+    - ¿Cuando?
+    - ¿Como?
+    - ¿A quien?
 - Analisis cualitativo
     - Porque
     - Que piensasn las personas
